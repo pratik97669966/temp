@@ -19,6 +19,7 @@ body {
   overflow-x: hidden;
   position: relative;
 }
+
 ul {
   margin: 0;
   padding: 0;
@@ -188,8 +189,8 @@ main {
   &--one {
     background: #0f2027;
     background: linear-gradient(to bottom, #2c536400, #203a4303, #0f2027cc),
-      url("https://play-lh.googleusercontent.com/eg58RzYlpGUDlCBKl9Gi7QobiQQH7ifBPFhRNWc0LFMFJ34bWq4zG-r3dsBCnoo229c=w2560-h1440-rw")
-        no-repeat 50% 50% / cover;
+      url("https://play-lh.googleusercontent.com/eg58RzYlpGUDlCBKl9Gi7QobiQQH7ifBPFhRNWc0LFMFJ34bWq4zG-r3dsBCnoo229c=w2560-h1440-rw") no-repeat 50% 50% / cover;
+
     h3 {
       font-family: "Courgette", cursive;
       font-weight: 300;
@@ -198,8 +199,8 @@ main {
 
   &--two {
     background: linear-gradient(to bottom, #2c536400, #203a4303, #0f2027cc),
-      url("https://play-lh.googleusercontent.com/dJwcR131fbMtz82K4lIzRe9GT_BdtRVYvSB2ajRjuPI1BIt_vz_9F6YU6sQpekOOMDs=w2560-h1440-rw")
-        no-repeat 50% 50% / cover;
+      url("https://play-lh.googleusercontent.com/dJwcR131fbMtz82K4lIzRe9GT_BdtRVYvSB2ajRjuPI1BIt_vz_9F6YU6sQpekOOMDs=w2560-h1440-rw") no-repeat 50% 50% / cover;
+
     h3 {
       font-family: "Noto Serif Vithkuqi", serif;
       font-weight: 300;
@@ -207,24 +208,20 @@ main {
   }
 
   &--three {
-    background: url("https://play-lh.googleusercontent.com/jiEFFjZacRqhuAXMaE959jKK1lsxznqzONwmuZ1Gmx9QjfjvBzV1YL-4Y3DbIgAurWY=w2560-h1440-rw")
-      no-repeat 50% 50% / cover;
+    background: url("https://play-lh.googleusercontent.com/jiEFFjZacRqhuAXMaE959jKK1lsxznqzONwmuZ1Gmx9QjfjvBzV1YL-4Y3DbIgAurWY=w2560-h1440-rw") no-repeat 50% 50% / cover;
   }
 
   &--four {
-    background: url("https://play-lh.googleusercontent.com/-8fq_xmWeDb-5wkaFjgqaEW-ei80_SOuzIs6Q0mPod2JXpi4PpCJ9dsVAGfQdXuc8Us=w2560-h1440-rw")
-      no-repeat 50% 50% / cover;
+    background: url("https://play-lh.googleusercontent.com/-8fq_xmWeDb-5wkaFjgqaEW-ei80_SOuzIs6Q0mPod2JXpi4PpCJ9dsVAGfQdXuc8Us=w2560-h1440-rw") no-repeat 50% 50% / cover;
   }
 
   &--five {
-    background: url("hhttps://play-lh.googleusercontent.com/0WSBNrgPIATVpSYqL_xy4ziOi9UUNj3PFyrZH3Uft32g445WeLNUqepFB2Hg_0dUoYQ=w2560-h1440-rw")
-      no-repeat 50% 50% / cover;
+    background: url("hhttps://play-lh.googleusercontent.com/0WSBNrgPIATVpSYqL_xy4ziOi9UUNj3PFyrZH3Uft32g445WeLNUqepFB2Hg_0dUoYQ=w2560-h1440-rw") no-repeat 50% 50% / cover;
   }
 
   &--six {
     background: linear-gradient(to bottom, #2c536400, #203a4303, #0f2027cc),
-      url("https://play-lh.googleusercontent.com/xJLPsJwFQULFb54Ir6NrvvfRlOF_K63dm2nsKU_HScgX9raE7Ptap1ax6kBS80eRg5Dg=w2560-h1440-rw")
-        no-repeat 50% 50% / cover;
+      url("https://play-lh.googleusercontent.com/xJLPsJwFQULFb54Ir6NrvvfRlOF_K63dm2nsKU_HScgX9raE7Ptap1ax6kBS80eRg5Dg=w2560-h1440-rw") no-repeat 50% 50% / cover;
 
     h3 {
       font-family: "Chonburi", cursive;
